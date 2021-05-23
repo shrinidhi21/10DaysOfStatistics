@@ -8,3 +8,6 @@ Day 0 : Mean, Median, Mode
 Day 1:  Quartiles, 
         Interquartile Range, 
         Standard Deviation
+
+Day 2:  Basic Probability
+        Compound Event Probability

@@ -11,3 +11,5 @@ Day 1:  Quartiles,
 
 Day 2:  Basic Probability
         Compound Event Probability
+
+Day 3:  Conditional Probability

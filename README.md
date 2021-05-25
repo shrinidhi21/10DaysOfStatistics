@@ -13,3 +13,6 @@ Day 2:  Basic Probability
         Compound Event Probability
 
 Day 3:  Conditional Probability
+
+Day 4:  Binomial Distribution
+        Geometric Distribution

@@ -16,3 +16,6 @@ Day 3:  Conditional Probability
 
 Day 4:  Binomial Distribution
         Geometric Distribution
+
+Day 5:  Normal Distribution
+        Poisson Distribution

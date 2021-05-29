@@ -19,3 +19,10 @@ Day 4:  Binomial Distribution
 
 Day 5:  Normal Distribution
         Poisson Distribution
+
+Day 6:  The Central Limit Theorem
+
+Day 7:  Pearson Correlation Coefficient
+        Spearman's Rank Correlation Coefficient
+
+Day 8:  Least Square Regression Line

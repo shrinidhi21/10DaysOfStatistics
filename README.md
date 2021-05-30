@@ -26,3 +26,5 @@ Day 7:  Pearson Correlation Coefficient
         Spearman's Rank Correlation Coefficient
 
 Day 8:  Least Square Regression Line
+
+Day 9:  Multiple Linear Regression
